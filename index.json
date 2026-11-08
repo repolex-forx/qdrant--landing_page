@@ -1,0 +1,11 @@
+{
+  "org": "qdrant",
+  "repo": "landing_page",
+  "versions": [
+    {
+      "commit": "84bc96c85c54074a27b98cba3be28b49faab4f16",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:46:56.164400+00:00"
+    }
+  ]
+}
